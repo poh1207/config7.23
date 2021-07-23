@@ -1,0 +1,112 @@
+﻿{
+  
+  "storageServerTable": [
+    {
+      "Alias": "1",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    },
+    {
+      "Alias": "2",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    }
+  ],
+  "worklistServerTable": [
+    {
+      "Alias": "3",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    },
+    {
+      "Alias": "4",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    }
+  ],
+  "SelectedStorageServerProperty": {
+    "Alias": "1",
+    "CallingAeTitle": null,
+    "CalledAeTitle": null,
+    "IPAddress": null,
+    "Port": 0,
+    "CharacterSet": null
+  },
+  "SelectedWorklistServerProperty": {
+    "Alias": "4",
+    "CallingAeTitle": null,
+    "CalledAeTitle": null,
+    "IPAddress": null,
+    "Port": 0,
+    "CharacterSet": null
+  },
+  "GeneralProperty": {
+    "Language": 0,
+    "ToothNoNotation": 0,
+    "DoseUnit": 0,
+    "LocalStoragePath": "ttt",
+    "InstitutionName": "test",
+    "Telephone": null,
+    "Fax": null,
+    "Address": null,
+    "Homepage": null,
+    "Logo": null,
+    "ImageType": 0,
+    "DefaultBrightness": 0.0,
+    "DefaultContrast": 0.0,
+    "WindowCenter": 0,
+    "WindowWidth": 0,
+    "DeviceType": 0,
+    "ResolutionWidth": 0,
+    "ResolutionHeight": 0,
+    "CalibrationDataFilePath": null
+  },
+  "StorageServerTableProperty": [
+    {
+      "Alias": "1",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    },
+    {
+      "Alias": "2",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    }
+  ],
+  "WorklistServerTableProperty": [
+    {
+      "Alias": "3",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    },
+    {
+      "Alias": "4",
+      "CallingAeTitle": null,
+      "CalledAeTitle": null,
+      "IPAddress": null,
+      "Port": 0,
+      "CharacterSet": null
+    }
+  ]
+}

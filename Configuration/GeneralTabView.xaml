@@ -1,0 +1,324 @@
+﻿<UserControl x:Class="Configuration.GeneralTabView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Configuration"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <ObjectDataProvider x:Key="languageEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum }">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type  TypeName="local:LanguageEnum"></x:Type>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+
+        <ObjectDataProvider x:Key="toothNoNotationEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:ToothNoNotationEnum"></x:Type>
+            </ObjectDataProvider.MethodParameters>
+
+        </ObjectDataProvider>
+
+        <ObjectDataProvider x:Key="doseUnitEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:DoseUnitEnum"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+
+        <ObjectDataProvider x:Key="imageTypeEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:ImageTypeEnum"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+
+        <ObjectDataProvider x:Key="deviceTypeEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:DeviceTypeEnum"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <GroupBox Header="test" Grid.Row="0" Grid.Column="0" Height="auto" Width="auto" Margin="10" BorderBrush="Gray" >
+            <StackPanel >
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0"  Text="Language" Margin="10" FontSize="15" Width="auto" Height="auto" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                    <ComboBox Grid.Column="1" Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "10" 
+                           ItemsSource="{Binding Source={StaticResource languageEnum}}" 
+                              SelectedItem="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Language, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  >
+                    </ComboBox>
+
+                </Grid>
+
+                <!--ItemsSource="{Binding Source={StaticResource languageEnum}}" 
+                              SelectedItem="{Binding Path=ModelProperty.GeneralProperty.Language, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"-->
+
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Local Storage Path :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.LocalStoragePath, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0"  Text="Tooth No. Notation" Margin="10" FontSize="15" Width="auto" Height="auto" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                    <ComboBox Grid.Column="1" Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "10"
+                              ItemsSource="{Binding Source={StaticResource toothNoNotationEnum}}"
+                              SelectedItem="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.ToothNoNotation, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}">
+
+                    </ComboBox>
+                </Grid>
+
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0"  Text="DoseUnit" Margin="10" FontSize="15" Width="auto" Height="auto" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                    <ComboBox Grid.Column="1" Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "10"
+                            ItemsSource="{Binding Source={StaticResource doseUnitEnum}}"
+                              SelectedItem="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.DoseUnit, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+
+                    </ComboBox>
+                </Grid>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="0" Grid.Column="1" Margin="10" Width="auto" Height="auto" BorderBrush="Gray" Header="Institution Information" >
+            <StackPanel >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Institution Name :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.InstitutionName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Telephone :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Telephone, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Fax :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Fax, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Address :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Address, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Homepage :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Homepage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Logo Image :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.Logo, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="1" Grid.Column="0"  Margin="10" Width="auto" Height="auto" BorderBrush="Gray" Header="Display" >
+
+            <StackPanel >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Image Type :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <ComboBox Grid.Column="1" Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "10"
+                        ItemsSource="{Binding Source={StaticResource imageTypeEnum}}" 
+                              SelectedItem="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.ImageTypeEnum, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"   >
+
+                    </ComboBox>
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Overlay :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.LocalStoragePath, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Default Brightness :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.DefaultBrightness, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Default Contrast :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.DefaultContrast, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Default Window Center :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.WindowCenter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Default Window Width :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.WindowWidth, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="1" Grid.Column="1"  Margin="10" Width="auto" Height="auto" BorderBrush="Gray" Header="Device" >
+
+            <StackPanel >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Device Type :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <ComboBox Grid.Column="1" Height = "20" Width = "100" HorizontalAlignment = "Left" Margin = "10" 
+                              ItemsSource="{Binding Source={StaticResource deviceTypeEnum}}" 
+                              SelectedItem="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.DeviceTypeEnum, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"   >
+
+                    </ComboBox>
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Resolution Width:" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.ResolutionWidth, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Resolution Height:" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.ResolutionHeight, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+
+                </Grid>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock  Grid.Column="0" Text="Calibration Data File Path :" FontSize="15" Width="auto" Height="auto" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"  />
+                    <TextBox Grid.Column="1" Width="100" Height="30" Margin="10" HorizontalAlignment="Left" Text="{Binding Path=ModelProperty.dataBaseProperty.GeneralProperty.CalibrationDataFilePath, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                </Grid>
+
+
+            </StackPanel>
+
+
+
+        </GroupBox>
+
+
+    </Grid>
+</UserControl>

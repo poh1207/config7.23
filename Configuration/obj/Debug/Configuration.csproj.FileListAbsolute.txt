@@ -1,0 +1,155 @@
+C:\Users\young hwa park\source\repos\Configuration\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\source\repos\Configuration\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\source\repos\Configuration\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\Configuration.pdb
+C:\Users\young hwa park\source\repos\Configuration\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\Configuration3\Configuration\Configuration\obj\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\AddNetwork.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 4\New Folder\one model\Configuration3\Configuration\Configuration\obj\Debug\AddNetwork.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\AddNetwork.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\AddNetwork.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 5\one model\Configuration3\Configuration\Configuration\obj\Debug\Configuration.pdb
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\AddNetwork.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.pdb
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\AddNetwork.baml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Downloads\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3 (1)\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.exe.config
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Configuration.pdb
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\AddNetwork.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\ConfigurationTab.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneralTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\MainWindow.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\NetworkTabView.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\App.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration_MarkupCompile.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration_MarkupCompile.lref
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\AddNetwork.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\ConfigurationTab.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\GeneralTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\MainWindow.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\NetworkTabView.baml
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.g.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.Properties.Resources.resources
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.GenerateResource.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.csproj.CopyComplete
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.exe
+C:\Users\young hwa park\Desktop\workspace\configuration 6\configuration-3-b825f546305903c60dab4bbd9cc138c9ec9b90d3\Configuration\obj\Debug\Configuration.pdb
